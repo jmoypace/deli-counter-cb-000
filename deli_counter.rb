@@ -9,9 +9,10 @@ end
 end
 
 def take_a_number
-  
+
 end
 
-def now_serving
-
+def now_serving(katz_deli)
+if(katz_deli.length==0)
+  puts "line is empty"
 end
