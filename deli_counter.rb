@@ -12,8 +12,8 @@ else
     counter+=1
   end
 end
-newarr.split('\"')
-puts "The line is currently: #{newarr}"
+newstring=newarr.split('\"')
+puts "The line is currently: #{newstring}"
 end
 
 def take_a_number(katz_deli, name)
