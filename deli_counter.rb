@@ -8,7 +8,7 @@ if (katz_deli.length==0)
 else
   #"The line is currently: 1. Logan 2. Avi 3. Spencer"
   katz_deli.each do|person|
-    newarr.push("#{counter}. #{person} ")
+    newarr.push("#{counter}. #{person}")
     counter+=1
   end
   newstring=newarr.join
