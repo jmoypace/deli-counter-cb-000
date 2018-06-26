@@ -15,7 +15,7 @@ else
 
 end
 
-puts "The line is currently: #{newstring-1}"
+puts "The line is currently: #{newstring}"
 end
 
 def take_a_number(katz_deli, name)
