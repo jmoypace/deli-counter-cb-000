@@ -12,9 +12,10 @@ else
     counter+=1
   end
   newstring=newarr.join
+  
 end
 
-puts "The line is currently: #{newstring}"
+puts "The line is currently: #{newstring-1}"
 end
 
 def take_a_number(katz_deli, name)
