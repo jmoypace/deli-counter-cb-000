@@ -10,6 +10,7 @@ else
   katz_deli.each do|person|
     newarr.push("#{counter}. #{person} ")
     counter+=1
+  end
 end
 puts "The line is currently: #{newarr}"
 end
