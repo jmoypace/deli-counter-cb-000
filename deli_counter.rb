@@ -14,7 +14,7 @@ else
 newstring=newarr.join
 end
 
-puts "The line is currently #{newarr}"
+puts "The line is currently: #{newarr}"
 end
 
 def take_a_number(katz_deli, name)
