@@ -19,8 +19,8 @@ end
 
 def take_a_number(katz_deli, name)
 katz_deli.push(name)
-katz_deli.join
-puts "Welcome, #{katz_deli}. You are number 1 in line."
+name=katz_deli.join
+puts "Welcome, #{name}. You are number 1 in line."
 
 end
 
