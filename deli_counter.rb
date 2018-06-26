@@ -12,6 +12,7 @@ else
     counter+=1
   end
 end
+newarr.split('\"')
 puts "The line is currently: #{newarr}"
 end
 
