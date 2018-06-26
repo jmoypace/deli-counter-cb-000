@@ -30,6 +30,6 @@ def now_serving(katz_deli)
 #end
 if(katz_deli.length>0)
 current_person=katz_deli.shift
-puts "Currently serving #{current_person}"
+puts "Currently serving #{current_person}."
 end
 end
