@@ -32,3 +32,4 @@ if(katz_deli.length>0)
 current_person=katz_deli.shift
 puts "Now serving #{current_person}"
 end
+end
