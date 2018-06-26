@@ -11,10 +11,10 @@ else
     newarr.push("#{counter}. #{person} ")
     counter+=1
   end
-  newarr.join
+  newstring=newarr.join
 end
 
-puts "The line is currently: #{newarr}"
+puts "The line is currently: #{newstring}"
 end
 
 def take_a_number(katz_deli, name)
