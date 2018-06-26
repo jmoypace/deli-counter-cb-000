@@ -11,7 +11,7 @@ else
     newarr.push("#{counter}. #{person} ")
     counter+=1
 end
-newarr
+puts "The line is currently: #{newarr}"
 end
 
 def take_a_number(katz_deli, name)
