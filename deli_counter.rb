@@ -19,7 +19,7 @@ end
 
 def take_a_number(katz_deli, name)
 katz_deli.push(name)
-if(katz_deli.length<=0)
+
 puts "Welcome, #{katz_deli}. You are number 1 in line."
 end
 end
