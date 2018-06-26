@@ -12,7 +12,7 @@ else
     counter+=1
   end
 end
-newstring=newarr.split('\"')
+newstring=newarr.split('\')
 puts "The line is currently: #{newstring}"
 end
 
