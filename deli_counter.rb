@@ -35,3 +35,4 @@ puts "Currently serving #{current_person}."
 else
   puts "There is nobody waiting to be served!"
 end
+end
