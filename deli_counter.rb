@@ -11,7 +11,7 @@ if (katz_deli.length>0)
   newstring=newarr.join
 
 end
-
+end
 puts "The line is currently:#{newstring}"
 end
 
