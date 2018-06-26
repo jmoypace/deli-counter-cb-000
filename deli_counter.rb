@@ -12,7 +12,7 @@ else
     counter+=1
   end
   newstring=newarr.join
-
+  newstring=newstring.length-1
 end
 
 puts "The line is currently: #{newstring}"
