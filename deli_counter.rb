@@ -4,7 +4,7 @@ def line(katz_deli)
   newarr=[]
   counter=1
 if (katz_deli.length==0)
-  puts "The line is currently empty"
+  puts "The line is currently empty."
   return
 else
   katz_deli.each do|person|
