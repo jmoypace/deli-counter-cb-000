@@ -11,9 +11,10 @@ else
     newarr.push("#{counter}. #{person} ")
     counter+=1
   end
+  
 end
-newstring=newarr.split("\")
-puts "The line is currently: #{newstring}"
+
+puts "The line is currently #{newarr}"
 end
 
 def take_a_number(katz_deli, name)
