@@ -13,7 +13,6 @@ else
 end
   newstring=newarr.join
 
-
 end
 puts "The line is currently:#{newstring}"
 end
