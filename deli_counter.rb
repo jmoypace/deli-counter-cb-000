@@ -11,7 +11,7 @@ else
     newarr.push("#{counter}. #{person} ")
     counter+=1
   end
-
+newstring=newarr.join
 end
 
 puts "The line is currently #{newarr}"
